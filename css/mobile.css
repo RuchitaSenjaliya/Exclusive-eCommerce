@@ -1,0 +1,168 @@
+@media screen and (max-width: 1200px) {
+  .home .right-content .text .title {
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    padding: 20px 0;
+  }
+  .music-add .text .title {
+    font-size: 2rem;
+    line-height: 50px;
+  }
+  .btn-green {
+    padding: 12px 42px;
+    border-radius: 4px;
+  }
+  .footer .title {
+    font-family: "Inter", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    padding-bottom: 24px;
+  }
+  .footer ul li {
+    font-family: "Poppins", sans-serif;
+    font-size: 0.8rem;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 12px 0;
+  }
+}
+@media screen and (max-width: 993px) {
+  .home ul li {
+    font-size: 12px;
+  }
+  .heading .title {
+    font-size: 2rem;
+  }
+  .top-header .para {
+    text-align: center;
+  }
+  .top-header .right {
+    justify-content: space-around;
+  }
+  .home .right-content .text .title {
+    font-size: 1.5rem;
+    line-height: 40px;
+    padding: 15px 0;
+  }
+  .home .right-content .text .shop-now-btn {
+    margin-top: 18px;
+  }
+  .hide {
+    display: none;
+  }
+  .featured .new-arrivals .text-overlay {
+    bottom: 12px;
+    left: 12px;
+  }
+  .featured .new-arrivals .text-overlay .title {
+    font-size: 1.2rem;
+    line-height: 20px;
+  }
+  .featured .new-arrivals .text-overlay .para {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    padding: 8px 0;
+  }
+  .featured .services .box {
+    padding: 0 5px;
+  }
+  .featured .services .box .name {
+    padding: 24px 0 8px 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+  }
+  .featured .services .box .desc {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px;
+  }
+  .footer .title {
+    font-family: "Inter", sans-serif;
+    font-size: 21px;
+  }
+  .footer ul li {
+    font-family: "Poppins", sans-serif;
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 764px) {
+  .heading .title {
+    padding: 48px 0 0 0;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #000;
+  }
+
+  .arrows {
+    padding: 48px 0 0 0;
+  }
+  .featured .new-arrivals .text-overlay {
+    bottom: 5px;
+    left: 5px;
+  }
+  .featured .new-arrivals .text-overlay .title {
+    font-size: 1rem;
+    line-height: 20px;
+  }
+  .featured .new-arrivals .text-overlay .para {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 18px;
+    padding: 2px 0;
+  }
+  .text-overlay .shop-now a {
+    font-size: 12px;
+  }
+  .btn-red {
+    background-color: #db4444;
+    color: #fafafa;
+    padding: 12px 28px;
+    border-radius: 4px;
+    border: 1px solid #db4444;
+  }
+  .music-add .text .title {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .navbar .links ul li a {
+    padding: 0 12px 0 8px;
+    font-size: 0.9rem;
+  }
+  .featured .new-arrivals .text-overlay .title {
+    font-size: 0.8rem;
+    line-height: 20px;
+  }
+  .featured .new-arrivals .text-overlay .para {
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 10px;
+    padding: 2px 0;
+  }
+  .text-overlay .shop-now a {
+    font-size: 12px;
+  }
+  .music-add .text .title {
+    font-size: 1.4rem;
+    line-height: 40px;
+  }
+  .btn-green,
+  .btn-red,
+  .btn-green:hover,
+  .btn-red:hover {
+    padding: 8px 16px;
+  }
+}
